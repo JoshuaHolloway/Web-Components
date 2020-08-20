@@ -9,3 +9,4 @@
     * Understanding the custom elements lifecycle
     * Using 'connectedCallback' for DOM access
 * 027: Listening to events inside the component
+* 028: Using attributes on custom elements
