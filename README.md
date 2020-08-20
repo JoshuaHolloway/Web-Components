@@ -8,4 +8,4 @@
     * Interacting with the surronding DOM
     * Understanding the custom elements lifecycle
     * Using 'connectedCallback' for DOM access
-* 
+* 027: Listening to events inside the component
